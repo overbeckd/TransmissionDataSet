@@ -1,4 +1,4 @@
-Time [mus];Protocol;Packet Length (Layer 3) [Byte]
+Time [us];Protocol;Packet Length (Layer 3) [Byte]
 4679;IEC 60870-5 ASDU;292
 4680;IEC 60870-5 ASDU;252
 46358;TCP;46
